@@ -9,6 +9,9 @@ __pycache__/
 # IAM user credentials
 project3_iam_user.py
 
+# CFG file
+dwh.cfg
+
 # Distribution / packaging
 .Python
 build/
